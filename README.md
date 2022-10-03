@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Preparing For Placement.<br>🌱 I’m currently Exploring Web Development,<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bit.ly/3SLgoTN<br>😄 Pronouns: He/His
+🔭 I’m Currently Preparing For Placements.<br>🌱 I’m currently Exploring Web Development,<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bit.ly/3SLgoTN<br>😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
