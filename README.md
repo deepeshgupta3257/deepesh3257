@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m Currently Preparing For Cloud Computing.<br>🌱 I’m currently Exploring Web Development,<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bit.ly/3SLgoTN<br>😄 Pronouns: He/His
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshgupta3257&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshgupta3257" /> </p>
 
