@@ -1,5 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://deepeshgupta3257.io)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://deepeshgupta3257.io) -->
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 
 # 💫 About Me:
 🔭 I’m Currently Preparing For Cloud Computing.<br>🌱 I’m currently Exploring Web Development,<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bit.ly/3SLgoTN<br>😄 Pronouns: He/His
