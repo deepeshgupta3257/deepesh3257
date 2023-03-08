@@ -1,9 +1,7 @@
-# 💫 About Me:
-🔭 I’m Currently Preparing For Cloud Computing.<br>🌱 I’m currently Exploring Web Development,<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bit.ly/3SLgoTN<br>😄 Pronouns: He/His
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshgupta3257&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshgupta3257" /> </p>
-
+# 💫 About Me:
+🔭 I’m Currently Preparing For Cloud Computing.<br>🌱 I’m currently Exploring Web Development,<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bit.ly/3SLgoTN<br>😄 Pronouns: He/His
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/deepeshgupta0706) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepesh_gupta_dg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepeshgupta0706/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@deepeshgupta487) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Deepesh-Gupta-121) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DeepeshGupta07) 
