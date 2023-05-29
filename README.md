@@ -11,6 +11,14 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Deepesh-Gupta-121) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DeepeshGupta07) 
 
+<p align="center">
+    <h2 align="center">Visitors Count</h2>
+    <p align="center">
+      <img src="https://profile-counter.glitch.me/{deepeshgupta3257}/count.svg" alt="VisitorCount">
+    </p>
+</p>
+
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -47,12 +55,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deepeshgupta3257&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-    <h2 align="center">Visitors Count</h2>
-    <p align="center">
-      <img src="https://profile-counter.glitch.me/{deepeshgupta3257}/count.svg" alt="VisitorCount">
-    </p>
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
