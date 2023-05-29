@@ -5,7 +5,11 @@
 🔭 I’m Currently Preparing For Cloud Computing.<br>🌱 I’m currently Exploring Web Development,<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bit.ly/3SLgoTN<br>😄 Pronouns: He/His
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/deepeshgupta0706) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepesh_gupta_dg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepeshgupta0706/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@deepeshgupta487) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Deepesh-Gupta-121) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DeepeshGupta07) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/deepeshgupta0706) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepesh_gupta_dg/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepeshgupta0706/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@deepeshgupta487) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Deepesh-Gupta-121) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DeepeshGupta07) 
 
 ### 🧰 Languages and Tools
 
@@ -36,10 +40,10 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=deepeshgupta3257) -->
 
 # 📊 GitHub Stats Overview:
-![](https://github-readme-stats.vercel.app/api?username=deepeshgupta3257&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=deepeshgupta3257&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deepeshgupta3257&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshgupta3257&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshgupta3257&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deepeshgupta3257&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
