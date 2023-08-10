@@ -54,6 +54,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deepeshgupta3257&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshgupta3257&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![deepeshgupta3257's GitHub | Stats](https://stats.quine.sh/deepeshgupta3257/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=deepeshgupta3257)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deepeshgupta3257&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
