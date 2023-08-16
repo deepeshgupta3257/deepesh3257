@@ -1,5 +1,12 @@
+<h1 align="center">Hi 👋, I'm Deepesh Gupta</h1>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemllb3puYXY1aGg1OTEydHBxajAzODBzbHJkcnh3YWhhbTNqdTh4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif">
+
 # 💫 About Me:
-🔭 I’m Currently Preparing For Cloud Computing.<br>🌱 I’m currently Exploring Web Development,<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bit.ly/3SLgoTN<br>😄 Pronouns: He/His
+🔭 I’m Currently Preparing For Cloud Computing.<br>
+🌱 I’m currently Exploring Web Development,<br>
+💬 Ask me about Good First Issues & Exciting projects to work on.<br>
+📫 How to reach me: https://bit.ly/3SLgoTN<br>
+😄 Pronouns: He/His<br>
 
 
 ## 🌐 Socials:
@@ -12,16 +19,19 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deepeshgupta3257&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshgupta3257&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=deepeshgupta3257&limit=5&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deepeshgupta3257&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=deepeshgupta3257&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>
+    <h2 align="center">Visitors Count</h2>
+    <p align="center">
+      <img src="https://profile-counter.glitch.me/{deepeshgupta3257}/count.svg" alt="VisitorCount">
+    </p>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
