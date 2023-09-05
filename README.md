@@ -5,7 +5,7 @@
 🔭 I’m Currently Preparing For Cloud Computing.<br>
 🌱 I’m currently Exploring Web Development,<br>
 💬 Ask me about Good First Issues & Exciting projects to work on.<br>
-📫 How to reach me: https://bit.ly/3SLgoTN<br>
+📫 How to reach me: https://bitly.ws/TXn7<br>
 😄 Pronouns: He/His<br>
 
 
